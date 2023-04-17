@@ -224,7 +224,7 @@ a{
 	font-size: 36px;
 	padding: 40px 20px;
 	border-radius: 4px;
-	position: relative;
+	position: inherit;
 	margin-bottom: 25px;
 	display: inline-block;
 	line-height: 0;
